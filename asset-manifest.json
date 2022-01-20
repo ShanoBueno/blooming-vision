@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blooming-vision/static/css/main.500498a8.css",
+    "main.js": "/blooming-vision/static/js/main.6f043f36.js",
+    "static/js/787.69223446.chunk.js": "/blooming-vision/static/js/787.69223446.chunk.js",
+    "static/media/4.png": "/blooming-vision/static/media/4.3813d0a16dc6b42dc123.png",
+    "static/media/8.png": "/blooming-vision/static/media/8.fdeb5c5f6c0b504a606a.png",
+    "static/media/3.png": "/blooming-vision/static/media/3.d376cfbf80a73d774407.png",
+    "static/media/7.png": "/blooming-vision/static/media/7.5069152e218445749189.png",
+    "static/media/2.png": "/blooming-vision/static/media/2.eb4469f342825fab99f8.png",
+    "static/media/1.png": "/blooming-vision/static/media/1.96b0c08e63b0ac5cc211.png",
+    "static/media/5.png": "/blooming-vision/static/media/5.36976bf85aeba976ae9f.png",
+    "static/media/6.png": "/blooming-vision/static/media/6.2118b2129b68ae5b40b9.png",
+    "index.html": "/blooming-vision/index.html",
+    "main.500498a8.css.map": "/blooming-vision/static/css/main.500498a8.css.map",
+    "main.6f043f36.js.map": "/blooming-vision/static/js/main.6f043f36.js.map",
+    "787.69223446.chunk.js.map": "/blooming-vision/static/js/787.69223446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500498a8.css",
+    "static/js/main.6f043f36.js"
+  ]
+}
