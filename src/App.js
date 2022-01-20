@@ -4,6 +4,8 @@ import Header from "./components/Header"
 import MainCarousel from "./components/Main-Carousel";
 import Blurb from "./components/Blurb";
 import "./App.css";
+import ContactForm from "./components/Contact";
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -13,7 +15,8 @@ function App() {
       <main>
         <MainCarousel></MainCarousel>
         <About></About>
-        
+        <ContactForm></ContactForm>
+        <Footer></Footer>
       </main>
     </div>
   );

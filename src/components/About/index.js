@@ -20,6 +20,8 @@ function About() {
           cater to your needs, with negotiable pricing, and stellar
           communication.{" "}
         </p>
+        <h2> Location </h2>
+        <p>Blooming Visions is available for projects in the Hudson River Valley and the surrounding areas.</p>
       </section>
     </section>
   );
